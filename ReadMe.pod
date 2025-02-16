@@ -745,11 +745,11 @@ new commit.
 
 =over
 
-=item * Ingy döt Net <ingy@ingy.net>
+=item * [Ingy döt Net](https://github.com/ingydotnet) <ingy@ingy.net>
 
-=item * Magnus Carlsson <grimmymail@gmail.com>
+=item * [Magnus Carlsson](https://github.com/grimmySwe) <grimmymail@gmail.com>
 
-=item * Austin Morgan <admorgan@morgancomputers.net>
+=item * [Austin Morgan](https://github.com/admorgan) <admorgan@morgancomputers.net>
 
 =back
 
